@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Smart Courier</string>
+
+    <string name="hint_id">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+
+
+    <string name="err_msg_password">Enter a Password</string>
+
+    <string name="btn_login">כניסה</string>
+    <string name="btn_exit">יציאה</string>
+
+    <string name="newDelivery"> הוסף מכתב חדש</string>
+    <string name="viewDelivery">צפייה במשלוחים שלי </string>
+    <string name="viewsUrgentDelivery">צפייה במשלוחים דחופים </string>
+    <string name="btnBack">חזרה </string>
+
+    <string name="track">מסלול </string>
+
+    <string name="urgent">דחוף</string>
+    <string name="dueDate">עד לתאריך</string>
+    <string name="claimant">תובע</string>
+    <string name="address">כתובת</string>
+    <string name="receiverName">שם</string>
+    <string name="phone">מספר טלפון</string>
+    <string name="pobox">תא דואר</string>
+    <string name="save">שמור</string>
+    <string name="requiredFieldMissing">נא למלא את כל הפרטים</string>
+
+    <string name="btnGetList">צפה ברשימת מכתבים </string>
+    <string name="spnrRegion">בחר איזור </string>
+    <string name="spnrSubRegion">בחר תת איזור </string>
+    <string name="btnNavigate">סע ליעד </string>
+    <string name="btnFinish">סיימתי להיום </string>
+
+    <string name="NotAvailable">לא נמצא בכתובת, כתובת לא רליוונטית</string>
+    <string name="nameOfTheReceiver">שם המקבל </string>
+    <string name="floor">קומה</string>
+    <string name="entrance">כניסה</string>
+    <string name="numberOfFloors">מס קומות בבניין</string>
+    <string name="privateHouse">בית פרטי</string>
+    <string name="publicHouse">בית משותף</string>
+    <string name="signed">חתם</string>
+    <string name="pastedOnDoor">הודבק על הדלת</string>
+    <string name="hour">שעה</string>
+    <string name="images">הכנס תמונות </string>
+
+    <string name="no_deliveries_in_region">לא נמצאו כתובות באיזור זה</string>
+    <string name="all_deliveries">הכל</string>
+    <string name="all_the_deliveries">מספר משלוחים הנדרשים למסירה:</string>
+    <string name="delivered_deliveries">נמסרו</string>
+
+    <string-array name="region_arrays">
+        <item>בחר אזור</item>
+    </string-array>
+    <string name="title_activity_map">Urgents Map</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCwBQdtuGZ5Q102hI8_VUIRzR14EE3ACaA</string>
+
+</resources>
